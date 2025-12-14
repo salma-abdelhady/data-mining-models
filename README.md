@@ -4,21 +4,22 @@ It demonstrates association rule mining, classification, and clustering using Py
 
 ## 1. Association Rule Mining
 - **Model:** Apriori
-- **Folder:** `association-apriori`
+- **Folder:** [association-apriori](association-apriori)
 - **Dataset:** `basket_analysis.csv`
 - **Description:** Identifies frequent itemsets and generates association rules from transactional data.
 
 ## 2. Classification
 - **Model:** Random Forest
-- **Folder:** `classification-randomforest`
+- **Folder:** [classification-randomforest](classification-randomforest)
 - **Dataset:** `mental_health_dataset.csv`
 - **Description:** Performs data classification using a Random Forest model with evaluation metrics and train/test split.
 
 ## 3. Clustering
 - **Model:** KMeans
-- **Folder:** `clustering-kmeans`
-- **Dataset:** `Wholesale customers data.csv`
+- **Folder:** [clustering-kmeans](clustering-kmeans)
+- **Dataset:** `Wholesale_customers_data.csv`
 - **Description:** Groups data into clusters using KMeans.
+
 
 ## Requirements
 - Python 3.x
